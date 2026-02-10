@@ -13,13 +13,17 @@ Picture Downloader: Downloads the thumbnail of a video
 **Prerequisites** <br>
 Python 3x
 Pytube library
+CustomTKinker
+SSL Verifcation/Certification
 
 **Installation** <br>
 1. Clone or download the python script
   git clone <repository-url>
 2. Navigate to directory with file
 3. Install required library
-  pip3 install pytube
+  "pip3 install pytubefix"
+5. Install CustomTKinker, 
+   "pip3 install cusomttkinter pytubefix
 
 **Usage** <br>
 1. Run the script
