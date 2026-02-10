@@ -1,7 +1,7 @@
 # YouTube Downloader Python Script
 
-# Version 
-ytwebscraper3 <br>
+**Version** <br>
+ytwebscraper3
 
 **Overview** <br>
 This script provides a YouTube content downloader, allowing users to download playlists, videos, channels, and audio or thumbnails from videos uploaded to YouTube. It is developed in Python and uses the 'Pytube' library to interact with YouTube.
