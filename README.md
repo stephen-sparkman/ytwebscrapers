@@ -46,3 +46,5 @@ Contributions are welcome! Please fork the repository and create a Pull Request 
 If you have any issues or feature requests, open an issue.
 
 **Notes** <br>
+Recent iterations prove YouTube is constantly changing how they handle bots and restricted downloads. If the loader 
+doesn't work, please consider the time of it's release.
