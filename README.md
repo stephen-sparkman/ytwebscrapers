@@ -1,7 +1,7 @@
 # YouTube Downloader Python Script
 
 **Version** <br>
-ytwebscraper3
+ytwebscraper5
 
 **Overview** <br>
 This script provides a YouTube content downloader, allowing users to download playlists, videos, channels, and audio or thumbnails from videos uploaded to YouTube. It is developed in Python and uses the 'Pytube' library to interact with YouTube.
@@ -27,6 +27,8 @@ SSL Verifcation/Certification
   "pip3 install pytubefix"
 5. Install CustomTKinker, 
    "pip3 install cusomttkinter pytubefix
+6. Install yt-dlp,
+   "pip3 install -U yt-dlp"
 
 **Usage** <br>
 1. Run the script
@@ -35,6 +37,7 @@ SSL Verifcation/Certification
 
 **Error** Handling <br>
 The script will keep prompting the user to enter a valid input until one is recieved or until they wish to exit.
+The Status bar should explain the encountered error.
 
 **Contribution** <br>
 Contributions are welcome! Please fork the repository and create a Pull Request with your changes.
@@ -42,3 +45,4 @@ Contributions are welcome! Please fork the repository and create a Pull Request 
 **Issues** <br>
 If you have any issues or feature requests, open an issue.
 
+**Notes** <br>
