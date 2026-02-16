@@ -35,6 +35,8 @@ ffmpeg (version 4-5)
 7. Install ffmpeg,
    "brew install ffmpeg"
 
+**YouTube Token Extractor** <br>
+Only required in the version 3, the last version using pytube
 
 
 **Usage** <br>
