@@ -18,6 +18,9 @@ Python 3x
 Pytube library
 CustomTKinker
 SSL Verifcation/Certification
+po_tokens and visitor_data (version 3)
+yt-dlp (version 4-5)
+ffmpeg (version 4-5)
 
 **Installation** <br>
 1. Clone or download the python script
@@ -29,6 +32,10 @@ SSL Verifcation/Certification
    "pip3 install cusomttkinter pytubefix
 6. Install yt-dlp,
    "pip3 install -U yt-dlp"
+7. Install ffmpeg,
+   "brew install ffmpeg"
+
+
 
 **Usage** <br>
 1. Run the script
